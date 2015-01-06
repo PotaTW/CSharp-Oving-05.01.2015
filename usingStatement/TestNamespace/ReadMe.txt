@@ -1,0 +1,2 @@
+﻿To use classes from other projects(namespaces), example project1, we can in the project2 using column write for example "using usingStatement" 
+and then in the project call upon the classes from project1. Remember, to be able to do so, we need to import "usingStatement" to reference in project2.
